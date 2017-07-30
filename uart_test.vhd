@@ -70,10 +70,7 @@ begin
 	   reset => rst,
 	   max_tick => tick_baudio
 	 );   
- 
 
-LED0 <= rst; 
- 
 process(clk,rst)
 begin
   if(rst='0')then
