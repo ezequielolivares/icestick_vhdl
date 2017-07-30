@@ -1,2 +1,2 @@
 # icestick_vhdl
-Basic test examples of VHDL code for implement in Lattice ice40 icestick board
+Send same 1-char to serial port all time, simple uart_tx test
