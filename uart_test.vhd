@@ -38,6 +38,7 @@ component uart_tx is
    );
 end component;
 
+--insertamos generador de baudios
 component mod_m_counter is
    generic(
       N: integer := 8;     -- number of bits
