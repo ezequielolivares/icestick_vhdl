@@ -6,7 +6,7 @@ entity uart_test is
   port(
     clk,rst : in std_logic;
 	pin_tx : out std_logic
-	LED0 : out std_logic;
+	LED0 : out std_logic
   );
 end uart_test;
 
